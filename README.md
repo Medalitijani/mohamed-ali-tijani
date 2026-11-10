@@ -29,6 +29,8 @@ I hold a BTS in IT Management (IPSET, 2024) and have hands-on experience in IT s
 Arabic (native) | English (fluent) | French (good)
 
 ## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/mohamed-ali-tijani-0ab3a236b/]
+- Email: [Mohamedalitijanii@gmail.com]
 
 - LinkedIn: [add your link]
 - Email: [add your email]
