@@ -18,7 +18,7 @@ I hold a BTS in IT Management (IPSET, 2024) and have hands-on experience in IT s
 
 ## 🚀 Featured project
 
-**[Small Business IT Infrastructure](https://github.com/YOUR-USERNAME/small-business-it-infrastructure)**: designing and building the IT environment of a 20-person company from scratch.
+**[Small Business IT Infrastructure](https://github.com/Medalitijani/small-business-it-infrastructure)**
 
 - 🔄 Phase 1: Network design (Cisco Packet Tracer: VLANs, DHCP, Wi-Fi)
 - ⏳ Phase 2: Windows Server and Active Directory
