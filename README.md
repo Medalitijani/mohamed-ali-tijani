@@ -11,24 +11,25 @@ I hold a BTS in IT Management (IPSET, 2024) and have hands-on experience in IT s
 - **Systems:** Active Directory / Entra ID, Azure, PowerShell (learning)
 - **Development:** SQL, HTML/CSS/JavaScript, Git/GitHub
 
-## 📚 Certifications 
+## 🎓 Certifications 
 
-- Cisco Networking Academy: Networking Basics
-- Fortinet NSE 1-3
-- Active Directory home lab
+- 🔄 Cisco Networking Academy: Networking Basics
+- 🔄 Fortinet NSE 1-3
 
-## 🚀 Projects
+## 🚀 Featured project
 
-- Small office network in Cisco Packet Tracer
-- Active Directory home lab
-- PowerShell scripts for IT support
-- IT helpdesk knowledge base
+**[Small Business IT Infrastructure](https://github.com/YOUR-USERNAME/small-business-it-infrastructure)**: designing and building the IT environment of a 20-person company from scratch.
+
+- 🔄 Phase 1: Network design (Cisco Packet Tracer: VLANs, DHCP, Wi-Fi)
+- ⏳ Phase 2: Windows Server and Active Directory
+- ⏳ Phase 3: PowerShell automation
+- ⏳ Phase 4: Support documentation
 
 ## 🌍 Languages
 
 Arabic (native) | English (fluent) | French (good)
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/mohamed-ali-tijani-0ab3a236b/]
-- Email: [Mohamedalitijanii@gmail.com]
-  
+
+- LinkedIn: [Mohamed Ali Tijani](https://www.linkedin.com/in/mohamed-ali-tijani-0ab3a236b/)
+- Email: [Mohamedalitijanii@gmail.com](mailto:Mohamedalitijanii@gmail.com)
